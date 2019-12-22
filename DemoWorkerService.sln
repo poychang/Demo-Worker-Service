@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29319.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoWorkerService", "DemoWorkerService\DemoWorkerService.csproj", "{28FD09CE-784C-4B23-8924-DC18CF9DE207}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28FD09CE-784C-4B23-8924-DC18CF9DE207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28FD09CE-784C-4B23-8924-DC18CF9DE207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28FD09CE-784C-4B23-8924-DC18CF9DE207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28FD09CE-784C-4B23-8924-DC18CF9DE207}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E609B964-8CF4-4B09-B62B-5028DAD35869}
+	EndGlobalSection
+EndGlobal
